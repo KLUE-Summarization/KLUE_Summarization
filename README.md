@@ -10,7 +10,7 @@
   
   <h3> 😆 Team Tistory </h3>
   
-[![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tesla&logoColor=white&link=https://wind-danger-196.notion.site/KUBIG-NLP-1-6ee848117c434dca99a3b0f8049e37ad)](https://wind-danger-196.notion.site/KUBIG-NLP-1-6ee848117c434dca99a3b0f8049e37ad)
+[![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tesla&logoColor=white&link=https://kubig-2021-2.tistory.com/11?category=956772)](https://kubig-2021-2.tistory.com/11?category=956772)
 
 </div>
 
